@@ -1,0 +1,29 @@
+.body {
+  background: black;
+  color: white;
+}
+.about {
+  font-size: 17px;
+}
+.small-picture {
+  height: 300px;
+}
+.game {
+  display: flex;
+  margin-top: 70px;
+}
+.game-text {
+  padding-left: 10px;
+}
+a {
+  color: yellow;
+}
+.big-picture {
+  height: 400px;  
+}
+.about-game {
+  text-align: justify;  
+}
+.about-game-image {
+  text-align: center;
+}
